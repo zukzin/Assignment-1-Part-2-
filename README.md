@@ -34,10 +34,10 @@ Although it was easy to create these codes once established it is the time it to
 #### Research conducted
 Bite size of information was taken into consideration before articulating the desired output into code. This included understanding how to create a table in order to import data or display data. This meant that the thinking was broken into tiny sizes of research to establish the correct code that will display the correct results. 
 
-### Colours of the widget
+#### Colours of the widget
 Python has its RGB and Hex colour code, different sources offer different codes, this meant that only a python library could be used to support the colour selection. Colour is particulary important even at begginer stage in order to seperate the differnt frames of the widget.
 
-In conclusion
+### Conclusion
 
 This first attempt was a different challenge and has opportunity for one to discover different ways of different sources of information.
 
